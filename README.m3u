@@ -1,4 +1,90 @@
-#EXTM3U
 
-#EXTINF:-1,WOW TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title></title>
+</head>
+
+<body>
+    <h1>TV LATINA</h1>
+    <div class="grid-container">
+        <ul>
+            <li class="grid-items"><a href="pluto-espana.html"><img class="iconos" src="img\pluto-espana.png" alt=""></a></li>
+            <footer class="pie">Pluto TV Espana</footer>
+        </ul>
+        <ul>
+            <li class="grid-items"><a href="pluto-mexico-2.html"><img class="iconos" src="img\pluto-mexico.png" alt=""></a></li>
+        </ul>
+        <ul>
+            <li class="grid-items"><a href="pluto-usa.html"><img class="iconos" src="img\pluto-usa.png" alt=""></a></li>
+        </ul>
+        <ul>
+            <li class="grid-items"><a href="espana.html"><img class="iconos" src="img\tv-espana.png" alt=""></a></li>
+        </ul>
+        <ul>
+            <li class="grid-items"><a href="honduras.html"><img class="iconos" src="img\tv-honduras.png" alt=""></a></li>
+        </ul>
+        <ul>
+            <li class="grid-items"><a href="pluto-espana.m3u"><img class="iconos" src="img\m3u-pluto-espana.png" alt=""></a></li>
+        </ul>
+        <ul>
+            <li class="grid-items"><a href="pluto-mexico.m3u"><img class="iconos" src="img\m3u-pluto-mexico.png" alt=""></a></li>
+        </ul>
+        <ul>
+            <li class="grid-items"><a href="pluto-usa.m3u"><img class="iconos" src="img\m3u-pluto-usa.png" alt=""></a></li>
+        </ul>
+        <ul>
+            <li class="grid-items"><a href="espana.m3u"><img class="iconos" src="img\m3u-espana.png" alt=""></a></li>
+        </ul>
+        <ul>
+            <li class="grid-items"><a href="honduras.m3u"><img class="iconos" src="img\m3u-honduras.png" alt=""></a></li>
+        </ul>
+        <ul>
+            <li class="grid-items"><a href="tv-latina.m3u"><img class="iconos" src="img\canales-premium.jpg" alt=""></a></li>
+            <footer class="pie">m3u tv latina ss-iptv color</footer>
+        </ul>
+        <ul>
+            <li class="grid-items"><a href="tv-latina-2.m3u"><img class="iconos" src="img\canales-premium.jpg" alt=""></a></li>
+            <footer class="pie">m3u tv latina ss-iptv</footer>
+        </ul>
+        <ul>
+            <li class="grid-items"><a href="pluto-tv.m3u"><img class="iconos" src="img\m3u.png" alt=""></a></li>
+        </ul>
+        <ul>
+            <li class="grid-items"><a href="pluto-tv-cine.html"><img class="iconos" src="img\pluto-tv-cine.png" alt=""></a></li>
+        </ul>
+        <ul>
+            <li class="grid-items"><a href="pluto-tv-deportes.html"><img class="iconos" src="img\pluto-tv-deportes.png" alt=""></a></li>
+        </ul>
+        <ul>
+            <li class="grid-items"><a href="pluto-tv-entretenimiento.html"><img class="iconos" src="img\pluto-tv-entretenimiento.png" alt=""></a></li>
+        </ul>
+        <ul>
+            <li class="grid-items"><a href="pluto-tv-infantiles.html"><img class="iconos" src="img\pluto-tv-infantiles.png" alt=""></a></li>
+        </ul>
+        <ul>
+            <li class="grid-items"><a href="pluto-tv-investigacion.html"><img class="iconos" src="img\pluto-tv-investigacion.png" alt=""></a></li>
+        </ul>
+        <ul>
+            <li class="grid-items"><a href="pluto-tv-mtv.html"><img class="iconos" src="img\pluto-tv-mtv.png" alt=""></a></li>
+        </ul>
+        <ul>
+            <li class="grid-items"><a href="pluto-tv-musica.html"><img class="iconos" src="img\pluto-tv-musica.png" alt=""></a></li>
+        </ul>
+        <ul>
+            <li class="grid-items"><a href="pluto-tv-noticias.html"><img class="iconos" src="img\pluto-tv-noticias.png" alt=""></a></li>
+        </ul>
+        <ul>
+            <li class="grid-items"><a href="pluto-tv-series.html"><img class="iconos" src="img\pluto-tv-series.png" alt=""></a></li>
+        </ul>
+        <ul>
+            <li class="grid-items"><a href="PlutoTV_VOD_ES_SSIPTV.m3u"><img class="iconos" src="img\pluto-tv-series.png" alt=""></a></li>
+            <footer class="pie">m3u</footer>
+        </ul>
+    </div>  
+</body>
+</html>
